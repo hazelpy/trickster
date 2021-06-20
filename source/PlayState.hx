@@ -67,12 +67,12 @@ class PlayState extends MusicBeatState
 	private var vocals:FlxSound;
 
 	// tricky lines
-	public var TrickyLinesSing:Array<String> = ["SUFFER","INCORRECT", "INCOMPLETE", "INSUFFICIENT", "INVALID", "CORRECTION", "MISTAKE", "REDUCE", "ERROR", "ADJUSTING", "IMPROBABLE", "IMPLAUSIBLE", "MISJUDGED"];
-	public var ExTrickyLinesSing:Array<String> = ["YOU AREN'T HANK", "WHERE IS HANK", "HANK???", "WHO ARE YOU", "WHERE AM I", "THIS ISN'T RIGHT", "MIDGET", "SYSTEM UNRESPONSIVE", "WHY CAN'T I KILL?????"];
-	public var TrickyLinesMiss:Array<String> = ["TERRIBLE", "WASTE", "MISS CALCULTED", "PREDICTED", "FAILURE", "DISGUSTING", "ABHORRENT", "FORESEEN", "CONTEMPTIBLE", "PROGNOSTICATE", "DISPICABLE", "REPREHENSIBLE"];
+	public var TrickyLinesSing:Array<String> = ["A"];
+	public var ExTrickyLinesSing:Array<String> = ["A"];
+	public var TrickyLinesMiss:Array<String> = ["A"];
 
 	//cutscene text unhardcoding
-	public var cutsceneText:Array<String> = ["OMFG CLOWN!!!!", "YOU DO NOT KILL CLOWN", "CLOWN KILLS YOU!!!!!!"];
+	public var cutsceneText:Array<String> = ["OMFG A!!!!", "YOU DO NOT KILL A", "A KILLS YOU!!!!!!"];
 
 	public static var dad:Character;
 	private var gf:Character;

@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin' Vs. Tricky (Version 2)" file="Vs. Tricky" packageName="com.kadedev.vstricky" package="com.kadedev.vstricky" main="Main" version="2" company="KadeDev" />
+	<app title="Friday Night Funkin' A Over Tricky (Version 2)" file="A Over Tricky" packageName="com.kadedev.vstricky" package="com.kadedev.vstricky" main="Main" version="2" company="KadeDev" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
